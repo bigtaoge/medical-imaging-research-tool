@@ -12,8 +12,8 @@
 
 ## 🚀 在线体验
 
-- **Vercel 部署**: [https://your-app.vercel.app](https://your-app.vercel.app)
-- **Cloudflare Pages**: [https://your-app.pages.dev](https://your-app.pages.dev)
+- **Vercel 部署**: [https://your-app.vercel.app](https://vercel.com/)
+- **Cloudflare Pages**: [https://your-app.pages.dev](https://dash.cloudflare.com/)
 
 ## 📦 技术栈
 
