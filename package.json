@@ -1,6 +1,7 @@
 {
   "name": "medical-imaging-research-tool",
   "version": "1.0.0",
+  "type": "module",
   "description": "Medical Imaging Research Analysis Tool - Enhanced Version",
   "main": "index.js",
   "scripts": {
