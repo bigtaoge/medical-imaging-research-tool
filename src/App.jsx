@@ -1,5 +1,5 @@
 import React from 'react';
-import MedicalImagingResearchTool from './components/MedicalImagingResearchTool.jsx';
+import MedicalImagingResearchTool from './MedicalImagingResearchTool.jsx';
 
 function App() {
   return (
